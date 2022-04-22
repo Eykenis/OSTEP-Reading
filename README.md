@@ -8,3 +8,5 @@ Operating Systems - Three Easy Pieces
 如果你~~不小心看到了，并且~~有建议，欢迎提出，或者也可以直接**加入我**一起更新QWQ.
 
 ~~目录格式将会在更新一点点东西有了头绪之后加上。~~
+
+本 repo 参考的版本为[官方最新的英文电子版](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters).
